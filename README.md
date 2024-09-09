@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://res.cloudinary.com/dnz16usmk/image/upload/v1725843708/mistral-ai.png" alt="logo" width="100" height="40" />
+
   <h1 align="center">
         Mistral 7B Finetune
     </h1>
